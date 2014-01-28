@@ -1,10 +1,4 @@
-;;; Scheme Art Contest
 ;;; Joe Wright - August 2013
-;;; 
-;;; 5 It's like herding cats
-;;; 7 Except quite a bit slower
-;;; 5 Thanks to Py Turtle
-;;;
 
 ; Non-standard primitives added:
 ;   sleep
