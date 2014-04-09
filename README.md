@@ -8,3 +8,5 @@ and motion.
 
 Relies on UC Berkeley's CS61A Project 4 implementation of a Scheme interpreter
 in Python for Py Turtle, among other things.
+
+![](joe-wright.github.com/flocking.scm/img/demo.png)
